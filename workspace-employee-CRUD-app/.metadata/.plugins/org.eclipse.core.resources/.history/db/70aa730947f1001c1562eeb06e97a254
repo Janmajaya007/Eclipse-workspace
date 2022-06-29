@@ -1,0 +1,5 @@
+package com.janmajaya.employeecrudapp.model;
+
+public class Employee {
+
+}

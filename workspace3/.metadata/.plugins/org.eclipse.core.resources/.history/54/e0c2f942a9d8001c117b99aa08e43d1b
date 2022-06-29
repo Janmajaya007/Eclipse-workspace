@@ -1,0 +1,5 @@
+package com.janmajaya.spring.MVC.validation;
+
+public class CourseCodeConstraintValidator {
+
+}

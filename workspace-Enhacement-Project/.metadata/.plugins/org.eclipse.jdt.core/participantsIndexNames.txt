@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\LENOVO\workspace-Enhacement-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3276080187.index
+\collateral-web-portal\src\main\java
+C:\Users\LENOVO\workspace-Enhacement-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\663547111.index
+\collateral-web-portal\src\main\java

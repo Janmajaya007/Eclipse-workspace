@@ -1,0 +1,5 @@
+package com.janmajaya.websocketdemo.config;
+
+public class WebSocketConfig {
+
+}

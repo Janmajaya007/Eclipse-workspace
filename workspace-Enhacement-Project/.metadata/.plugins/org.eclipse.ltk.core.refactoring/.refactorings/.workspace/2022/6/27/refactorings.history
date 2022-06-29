@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Collaterals-Management-Microservice&apos;" deleteContents="false" description="Delete resource &apos;Collaterals-Management-Microservice&apos;" element1="/Collaterals-Management-Microservice" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1656270175370"/>&#x0A;<refactoring comment="Delete 4 resources" deleteContents="false" description="Delete 4 resources" element1="/authorization-service" element2="/collateral-web-portal" element3="/loan-management" element4="/risk-assessment-service" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1656270185923"/>
+</session>

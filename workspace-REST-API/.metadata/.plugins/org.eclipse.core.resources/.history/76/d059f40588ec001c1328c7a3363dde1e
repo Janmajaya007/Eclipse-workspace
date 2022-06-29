@@ -1,0 +1,5 @@
+package com.janmajaya.learnspringframework.sample.enterprise.flow;
+
+public class Controller {
+
+}

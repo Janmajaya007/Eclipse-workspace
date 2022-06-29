@@ -1,0 +1,5 @@
+package com.janmajaya.rest.webservices.restfulwebservices;
+
+public class HElloWorldController {
+
+}

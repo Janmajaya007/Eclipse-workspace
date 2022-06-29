@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.http.HttpRequest"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+<fullyQualifiedTypeName name="javax.validation.Constraint"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+<fullyQualifiedTypeName name="javax.validation.Payload"/>
+<fullyQualifiedTypeName name="javax.validation.ConstraintValidator"/>
+<fullyQualifiedTypeName name="com.janmajaya.spring.MVC.validation.CourseCode"/>
+</qualifiedTypeNameHistroy>

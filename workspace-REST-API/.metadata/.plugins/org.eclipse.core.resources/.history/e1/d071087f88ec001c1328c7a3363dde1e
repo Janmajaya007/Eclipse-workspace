@@ -1,0 +1,25 @@
+package com.janmajaya.learnspringframework.sample.enterprise.flow;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+//Sending response in the right format
+@RestController
+public class Controller {
+	
+	// "/sum" => 100
+	@GetMapping("/sum")
+	public long displaySum() {
+		return 100;
+	}
+}
+
+//Business Logic
+class BusinessService {
+
+}
+
+//Getting Data
+class DataService {
+
+}

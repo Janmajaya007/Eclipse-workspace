@@ -1,0 +1,21 @@
+package com.janmajaya.rest.webservices.restfulwebservices.user;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class UserResource {
+
+	@Autowired
+	private UserDaoService service;
+
+	// GET /users
+	// retrieveAllUsers
+	public List<User> retrieveAllUsers() {
+		return null;
+	}
+
+	// retrieveUser(int id)
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/sports-demo-repo"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+		<item value="git.eclipse.org"/>
+		<item value="git-codecommit.ap-southeast-1.amazonaws.com"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Janmajaya &lt;janmajayagantayat@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Janmajaya &lt;janmajayagantayat@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="534"/>
+		<item key="DIALOG_Y_ORIGIN" value="199"/>
+		<item key="DIALOG_WIDTH" value="871"/>
+		<item key="DIALOG_HEIGHT" value="488"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+</section>

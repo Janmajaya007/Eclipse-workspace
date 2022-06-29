@@ -1,0 +1,9 @@
+//Getting Data
+package com.janmajaya.learnspringframework.sample.enterprise.flow.data;
+@Component
+class DataService {
+
+	public List<Integer> retriveData() {
+		return Arrays.asList(12, 13, 14, 15, 16, 17, 1, 81, 19);
+	}
+}

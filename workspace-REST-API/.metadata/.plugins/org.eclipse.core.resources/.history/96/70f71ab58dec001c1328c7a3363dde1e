@@ -1,0 +1,25 @@
+package com.janmajaya.learnspringframework.game;
+
+public class PacMan implements GamingConsole {
+
+	@Override
+	public void up() {
+		System.out.println("I am going up");
+	}
+
+	@Override
+	public void down() {
+		System.out.println("I am going down");
+	}
+
+	@Override
+	public void left() {
+		System.out.println("I am going left");
+	}
+
+	@Override
+	public void right() {
+		System.out.println("I am going right");
+	}
+
+}

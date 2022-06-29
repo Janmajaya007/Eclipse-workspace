@@ -1,0 +1,12 @@
+//Business Logic
+package com.janmajaya.learnspringframework.sample.enterprise.flow.business;
+@Component
+class BusinessService {
+	@Autowired
+	private DataService dataService;
+
+	public long calculateSum() {
+		List<Integer> data = dataService.retriveData();
+		return data.stream().reduce(Integer::sum).get();
+	}
+}

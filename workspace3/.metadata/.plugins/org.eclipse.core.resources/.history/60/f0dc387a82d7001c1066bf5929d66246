@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Spring MVC Home</h1>
+
+<hr>
+
+<a href="Hello/showForm">Hello WorldForm</a>
+</body>
+</html>

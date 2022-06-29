@@ -1,0 +1,5 @@
+package com.janmajaya.employeecrudapp.exception;
+
+public class ErrorDetails {
+
+}

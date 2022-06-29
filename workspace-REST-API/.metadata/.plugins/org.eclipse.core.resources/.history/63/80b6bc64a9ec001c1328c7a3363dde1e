@@ -1,0 +1,5 @@
+package com.janmajaya.learnspringboot.courses.bean;
+
+public class Course {
+
+}

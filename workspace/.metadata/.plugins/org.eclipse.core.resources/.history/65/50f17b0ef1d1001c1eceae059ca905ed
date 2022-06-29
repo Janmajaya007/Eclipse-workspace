@@ -1,0 +1,5 @@
+package com.janmajaya.jpa.introductiontoSpringBootjpa.service;
+
+public interface UserRepository {
+
+}

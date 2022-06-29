@@ -1,0 +1,5 @@
+package com.janmajaya.websocketdemo.model;
+
+public class ChatMessage {
+
+}
